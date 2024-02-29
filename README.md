@@ -1,7 +1,10 @@
 # landingPage.github.io
 
 Hello everyone, I would like to show a simple page that I have made (the design of this page is found in codewell)
--------------------------------------------------------------------------------------------------------------------![images](https://github.com/BOCCHI1510/landingPage.github.io/assets/161669478/af49ed58-7350-4194-b919-eb959cdc2ea1)
+
+
+-------------------------------------------------------------------------------------------------------------------
+![images](https://github.com/BOCCHI1510/landingPage.github.io/assets/161669478/af49ed58-7350-4194-b919-eb959cdc2ea1)
 
 
 
